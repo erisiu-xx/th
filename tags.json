@@ -1,10 +1,10 @@
 {
-  "SEKAI":     { "group_id": 652303250, "manager_role_id": 0 },
-  "ANGEL":     { "group_id": 457554694, "manager_role_id": 0 },
-  "ANU":       { "group_id": 706483742, "manager_role_id": 0 },
-  "SPOOKY":    { "group_id": 205757633, "manager_role_id": 0 },
-  "kittyfish": { "group_id": 251194140, "manager_role_id": 0 },
-  "WINTER":    { "group_id": 335825406, "manager_role_id": 0 },
-  "HAVOC":     { "group_id": 416112359, "manager_role_id": 0 },
-  "RUIN":      { "group_id": 790733937, "manager_role_id": 0 }
+  "SEKAI":     { "group_id": 652303250, "manager_role_id": 1555699598637670501 },
+  "ANGEL":     { "group_id": 457554694, "manager_role_id": 1555698948558037132 },
+  "ANU":       { "group_id": 706483742, "manager_role_id": 1555699630417907753 },
+  "SPOOKY":    { "group_id": 205757633, "manager_role_id": 1555699632107954226 },
+  "kittyfish": { "group_id": 251194140, "manager_role_id": 1555699633920016384 },
+  "WINTER":    { "group_id": 335825406, "manager_role_id": 1555699635853598800 },
+  "HAVOC":     { "group_id": 416112359, "manager_role_id": 1555699637698957322 },
+  "RUIN":      { "group_id": 790733937, "manager_role_id": 1555699639309828116 }
 }
