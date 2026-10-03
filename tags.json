@@ -1,0 +1,10 @@
+{
+  "SEKAI":     { "group_id": 652303250, "manager_role_id": 0 },
+  "ANGEL":     { "group_id": 457554694, "manager_role_id": 0 },
+  "ANU":       { "group_id": 706483742, "manager_role_id": 0 },
+  "SPOOKY":    { "group_id": 205757633, "manager_role_id": 0 },
+  "kittyfish": { "group_id": 251194140, "manager_role_id": 0 },
+  "WINTER":    { "group_id": 335825406, "manager_role_id": 0 },
+  "HAVOC":     { "group_id": 416112359, "manager_role_id": 0 },
+  "RUIN":      { "group_id": 790733937, "manager_role_id": 0 }
+}
